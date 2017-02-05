@@ -1,0 +1,7 @@
+name: Commerce Razorpay
+type: module
+description: Razorpay Payment Gateway
+core: 8.x
+package: Commerce
+dependencies:
+  - commerce_payment
